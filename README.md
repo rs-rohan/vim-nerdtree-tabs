@@ -1,13 +1,7 @@
-# No longer actively maintained
+# vim-nerdtree-tabs
 
-I'm no longer using vim-nerdtree-tabs and i'm no longer maintaining it
-actively.
-
-In case you forked it and moved the code forward, e.g. by fixing a
-considerable chunk of
-the
-[reported issues](https://github.com/jistr/vim-nerdtree-tabs/issues),
-let me know and i'll link your fork here.
+This a fork of the original vim-nerdtree-tabs from 
+[jistr/vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs)
 
 # NERDTree and tabs together in Vim, painlessly
 
